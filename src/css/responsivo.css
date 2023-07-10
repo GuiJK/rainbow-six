@@ -3,34 +3,34 @@
     max-width: 190px;
   }
 
-  .selecao-de-personagens {
+  .selecao-de-operadores {
     flex-direction: column-reverse;
     max-width: 430px;
     margin: 0 auto;
   }
 
-  .selecao-de-personagens .personagens {
+  .selecao-de-operadores .operadores {
     margin-top: 37px;
   }
 
-  .selecao-de-personagens .personagens .titulo {
+  .selecao-de-operadores .operadores .titulo {
     font-size: 15px;
   }
 
-  .selecao-de-personagens .lista-de-personagens {
+  .selecao-de-operadores .lista-de-operadores {
     gap: 9px;
   }
 
-  .personagem-selecionado .personagens .personagem img {
+  .operador-selecionado .operadores .operador img {
     width: 80px;
   }
 
-  .personagem-selecionado .personagem-grande {
+  .operador-selecionado .operador-grande {
     width: 350px;
     height: 350px;
   }
 
-  .personagem-selecionado .descricao-personagem {
+  .operador-selecionado .descricao-operador {
     width: 80%;
     font-size: 16px;
     margin: 20px auto;
